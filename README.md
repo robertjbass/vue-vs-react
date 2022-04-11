@@ -25,6 +25,9 @@ The is a simple todo app. It uses [Sakura Classless CSS](https://github.com/oxal
 |-📁 react
 |-📁 vue
 
+├── 📁 react
+├── 📁 vue
+
 ### Run the React dev server
 
 ```
@@ -41,6 +44,10 @@ cd vue
 npm install
 npm run dev
 ```
+
+## Recommended IDE Setup
+
+- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
 ## Starting from scratch
 
