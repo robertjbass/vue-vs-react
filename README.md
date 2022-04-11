@@ -22,11 +22,10 @@ The is a simple todo app. It uses [Sakura Classless CSS](https://github.com/oxal
 
 **_This repo has 2 projects_**
 
-|-📁 react
-|-📁 vue
-
-├── 📁 react
-├── 📁 vue
+```
+├──📁 react
+├──📁 vue
+```
 
 ### Run the React dev server
 
@@ -34,7 +33,6 @@ The is a simple todo app. It uses [Sakura Classless CSS](https://github.com/oxal
 cd react
 npm install
 npm run dev
-cd vue
 ```
 
 ### Run the Vue dev server
